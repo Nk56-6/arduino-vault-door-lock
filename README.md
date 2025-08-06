@@ -69,7 +69,7 @@ This project uses **serial input commands** to move a **servo motor**, acting li
 
 ## Images / Video
 
-- ![Project Setup](images/project-setup.jpg)
+- ![Project Setup](1000002966.jpg)
 
 ---
 
